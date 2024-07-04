@@ -35,3 +35,5 @@ def main():
         else:
             print("Invalid option. Try again!")
             print("")
+main()
+main()
