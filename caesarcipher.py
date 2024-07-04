@@ -1,4 +1,4 @@
-def caesar_cipher(text, shift, option):
+oodef caesar_cipher(text, shift, option):
     result = ""
     for char in text:
         if char.isalpha():
@@ -36,4 +36,4 @@ def main():
             print("Invalid option. Try again!")
             print("")
 main()
-main()
+
